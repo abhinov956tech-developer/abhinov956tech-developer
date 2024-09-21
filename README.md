@@ -1,5 +1,4 @@
-# abhinov956tech-developer
- 
+
 <h1 align="center">Hi 👋, I'm Abhinov Dutta</h1>
 <h3 align="center">Aspiring Full Stack Developer and learning all about the new and exciting tech, level up my skills. Passionate about creating impactful, innovative projects. Keen to collaborate</h3>
 
